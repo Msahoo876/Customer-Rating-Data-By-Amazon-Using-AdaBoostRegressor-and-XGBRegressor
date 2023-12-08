@@ -1,0 +1,31 @@
+Customer Rating Data By Amazon Using AdaBoostRegressor and XGBRegressor
+Amazon Customer rating for recommendation system
+
+About Dataset
+
+Context:
+In the ever-evolving world of e-commerce, Amazon.com stands as a pioneering giant. Known for its innovative spirit and remarkable journey, Amazon has not only experienced glorious heights but also faced 
+intriguing challenges along the way. Here are some fascinating insights:
+
+Dataset Overview:
+Now, let's delve into the dataset at hand. It comprises an extensive collection of over 2 million customer reviews and ratings of beauty-related products available on Amazon's platform. The dataset includes 
+valuable information such as:
+
+Unique User IDs for customer identification. Product ASIN (Amazon's distinctive product identifier). Ratings, which reflect customer satisfaction on a scale from 1 to 5. Timestamps, recorded in UNIX time, indicating when the ratings were submitted. Acknowledgments: This dataset is just a fragment of the extensive Amazon product dataset, encompassing a staggering 142.8 million reviews spanning the period from May 1996 to July 2014. The complete dataset provides a wealth of information, including detailed product reviews, metadata, category information, pricing data, brand details, and even image features.
+A Costly Downtime:
+
+In August 2013, Amazon encountered a 40-minute website downtime, causing a notable loss of $4.8 million. This incident highlights the critical importance of maintaining a seamless online presence. 
+The 1-Click Innovation:
+
+Amazon's inventive prowess is exemplified by its patent on the "1-Click" buying feature. This technology was not only a game-changer for Amazon but is also licensed to other tech giants, including Apple. 
+Warehouses on Steroids:
+
+Amazon's Phoenix fulfillment center is a colossal structure, spanning a jaw-dropping 1.2 million square feet. It serves as a testament to the logistics marvel that powers the company's global operations. 
+The Power of Recommendations:
+
+Amazon leverages a robust recommendation engine that relies on customer ratings and purchase history to provide personalized product suggestions. This engine is pivotal in enhancing customer satisfaction and 
+driving sales.
+
+Inspiration:
+Now, the challenge lies in leveraging this condensed dataset to build a powerful recommendation engine. Can we tap into this data to create a recommendation system that mirrors the capabilities of 
+Amazon's own engine? It's an exciting endeavor, and your innovative ideas and solutions are the driving force behind this exploration.
